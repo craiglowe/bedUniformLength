@@ -10,7 +10,7 @@ You now need to get a set of posible training examples, known enhancers, and mak
 Installation
 ============
 
-This code uses the Kent libraries from UCSC so that must be installed to compile bedToEnrichments
+This code uses the Kent libraries from UCSC so that must be installed to compile bedUniformLength
 
 <ol>
 <li> Download and compile the Kent Libraries
